@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWidget/app/src/main/res/layout/activity_main.xml" value="0.276268115942029" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWidget/app/src/main/res/layout/default_widget.xml" value="0.20520833333333333" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWidget/app/src/main/res/layout/weather_widget.xml" value="0.276268115942029" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWidget/app/src/main/res/layout/widget.xml" value="0.20520833333333333" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWindWidget/app/src/main/res/drawable-v21/app_widget_background.xml" value="0.21875" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWindWidget/app/src/main/res/drawable-v21/app_widget_inner_view_background.xml" value="0.21875" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWindWidget/app/src/main/res/drawable/bottom_rounded_rectangle.xml" value="0.3828125" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWindWidget/app/src/main/res/drawable/rectangle_border_left_right.xml" value="0.22135416666666666" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWindWidget/app/src/main/res/drawable/rounded_rectangle.xml" value="0.16111111111111112" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWindWidget/app/src/main/res/drawable/rounded_rectangle2.xml" value="0.21875" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWindWidget/app/src/main/res/drawable/rounded_rectangle3.xml" value="0.2462962962962963" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWindWidget/app/src/main/res/drawable/rounded_rectangle4.xml" value="0.2518518518518518" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWindWidget/app/src/main/res/drawable/rounded_rectangle_container.xml" value="0.3828125" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWindWidget/app/src/main/res/layout/activity_main.xml" value="0.30027173913043476" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWindWidget/app/src/main/res/layout/cell.xml" value="0.36666666666666664" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWindWidget/app/src/main/res/layout/row.xml" value="0.6646077825818406" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWindWidget/app/src/main/res/layout/text.xml" value="0.36666666666666664" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWindWidget/app/src/main/res/layout/widget.xml" value="0.33" />
+        <entry key="..\:/Prog/AndroidWorkPlace/WeatherWindWidget/app/src/main/res/xml/provider_paths.xml" value="0.2015625" />
+        <entry key="app/src/main/res/drawable/rounded_rectangle.xml" value="0.112" />
+        <entry key="app/src/main/res/drawable/rounded_rectangle_container.xml" value="0.112" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.13043478260869565" />
+        <entry key="app/src/main/res/layout/layout_top_weather.xml" value="0.13043478260869565" />
+        <entry key="app/src/main/res/layout/row.xml" value="0.13043478260869565" />
+        <entry key="app/src/main/res/layout/widget.xml" value="0.13043478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.276268115942029" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
